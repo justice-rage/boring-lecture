@@ -11,3 +11,7 @@ h2.intro {
 img.intro {
   border-radius: 8px;
 }
+
+.intro {
+  color: green;
+}
