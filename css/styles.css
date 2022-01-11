@@ -1,0 +1,13 @@
+p.intro {
+  width: 75%;
+  font-style: italic;
+}
+
+h2.intro {
+  color: blue;
+  font-style: bold;
+}
+
+img.intro {
+  border-radius: 8px;
+}
